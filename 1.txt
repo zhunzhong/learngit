@@ -4,3 +4,5 @@ Git has a mutable index called stage
 add 1
 add 2
 add 3
+add new 1
+add new 2
